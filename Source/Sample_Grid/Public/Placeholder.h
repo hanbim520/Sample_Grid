@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
-#include "Interfaces/GridPawnInterface.h"
+#include "GridInterface.h"
 #include "Placeholder.generated.h"
 
 UCLASS()
